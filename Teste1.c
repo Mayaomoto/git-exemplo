@@ -5,8 +5,14 @@
 int main()
 
 {
-    printf("qq coisa");
-    printf("o/");
+    printf("qq coisa\n");
+    printf("o/\n");
+
+    int x = 1;
+    int y = 2;
+    int soma = x + y;
+
+    printf("%d",soma);
     
     return 0;
 
